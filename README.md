@@ -5,6 +5,9 @@
 
 <br/>
 
+<h4>Analista - Manuel Vaiot</h4>
+<code><a href="https://www.manuelvaiot.com/"><img height="45" src="https://bit.ly/33HteLB"></a></code>
+
 <h4>Conhecimento nas seguintes áreas:</h4>
 
 - Desenvolvimento de aplicativos mobile android e iOs com Flutter
@@ -28,7 +31,7 @@
   <a href="https://bit.ly/37R6KJJ" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://bit.ly/37R6KJJ"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/glauber.gomes.26/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/glauber.gomes.26/"/></a>
 
   <a href="https://www.instagram.com/glaubergomes__/" alt="Instagram">
