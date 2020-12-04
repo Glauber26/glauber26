@@ -19,10 +19,10 @@
 <h4>Contato:</h4>
 
 <p align="left">
-  <a href="sglauber26@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sglauber26@gmail.com" /></a>
+  <code><a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sglauber26@gmail.com" /></a></code>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/glauber-gomes26/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glauber-gomes26/" /></a>
 
   <a href="#" alt="WhatsApp">
